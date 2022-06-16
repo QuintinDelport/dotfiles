@@ -1,0 +1,3 @@
+[Added Associations]
+application/x-shellscript=vim.desktop;org.gnome.gedit.desktop;
+text/plain=org.gnome.gedit.desktop;vim.desktop;

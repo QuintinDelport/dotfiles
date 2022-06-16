@@ -1,0 +1,6 @@
+2022/06/15-20:06:55.167 8eb Creating DB /home/stompie/.config/chromium/Default/IndexedDB/https_eu.enjisweeps.click_0.indexeddb.leveldb since it was missing.
+2022/06/15-20:06:55.351 8eb Delete type=3 #1
+2022/06/15-20:06:57.853 169a Level-0 table #5: started
+2022/06/15-20:06:57.916 169a Level-0 table #5: 1885 bytes OK
+2022/06/15-20:06:58.008 169a Delete type=0 #3
+2022/06/15-20:06:58.009 169a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

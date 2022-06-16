@@ -1,0 +1,6 @@
+2022/06/15-19:30:14.830 2c6b Creating DB /home/stompie/.config/chromium/Default/IndexedDB/https_blog.desdelinux.net_0.indexeddb.leveldb since it was missing.
+2022/06/15-19:30:15.013 2c6b Delete type=3 #1
+2022/06/15-19:31:13.277 2dc1 Level-0 table #5: started
+2022/06/15-19:31:13.310 2dc1 Level-0 table #5: 5883 bytes OK
+2022/06/15-19:31:13.345 2dc1 Delete type=0 #3
+2022/06/15-19:31:13.345 2dc1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

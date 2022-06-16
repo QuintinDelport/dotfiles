@@ -1,0 +1,6 @@
+2022/06/13-19:09:29.347 497 Creating DB /home/stompie/.config/chromium/Default/IndexedDB/http_westjofmp3.com_0.indexeddb.leveldb since it was missing.
+2022/06/13-19:09:29.562 497 Delete type=3 #1
+2022/06/13-19:09:37.636 496 Level-0 table #5: started
+2022/06/13-19:09:37.670 496 Level-0 table #5: 562 bytes OK
+2022/06/13-19:09:37.699 496 Delete type=0 #3
+2022/06/13-19:09:37.699 496 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

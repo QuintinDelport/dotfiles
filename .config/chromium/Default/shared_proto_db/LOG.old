@@ -1,0 +1,5 @@
+2022/06/16-09:19:50.004 21ae Recovering log #54
+2022/06/16-09:19:50.004 21ae Level-0 table #56: started
+2022/06/16-09:19:50.054 21ae Level-0 table #56: 323 bytes OK
+2022/06/16-09:19:50.139 21ae Delete type=3 #52
+2022/06/16-09:19:50.139 21ae Delete type=0 #54

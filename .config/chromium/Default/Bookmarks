@@ -1,0 +1,75 @@
+{
+   "checksum": "beeb60695e706dd62b98ffffabd75300",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "0",
+            "guid": "ffef6dca-5a26-41b7-8d92-cee31a3544e8",
+            "id": "5",
+            "name": "Debian.org",
+            "type": "url",
+            "url": "http://www.debian.org/"
+         }, {
+            "date_added": "0",
+            "guid": "6a0bea79-2c3b-4b8f-8261-3bcfa7379030",
+            "id": "6",
+            "name": "Latest News",
+            "type": "url",
+            "url": "http://www.debian.org/News/"
+         }, {
+            "date_added": "0",
+            "guid": "0f39aec3-496d-4bdd-916c-c87e9ec39c88",
+            "id": "7",
+            "name": "Help",
+            "type": "url",
+            "url": "http://www.debian.org/support"
+         }, {
+            "date_added": "13299714838821047",
+            "guid": "8f395967-1903-464d-b570-09a0d3b7506f",
+            "id": "9",
+            "name": "GitHub - jopraveen/kali-punk: i3 rice Inspired by Cyberpunk 2077",
+            "type": "url",
+            "url": "https://github.com/jopraveen/kali-punk"
+         }, {
+            "date_added": "13299802207632918",
+            "guid": "5a1d97c8-d8aa-40d0-966d-d0064219690a",
+            "id": "11",
+            "name": "ASCII Text Art Generator",
+            "type": "url",
+            "url": "https://fsymbols.com/generators/carty/"
+         }, {
+            "date_added": "13299802210690478",
+            "guid": "b2b814b2-077e-4f04-83ba-79cdfc566a50",
+            "id": "12",
+            "name": "How to Use the Colorize Gem and ASCII Text Art to Enhance Terminal Output | by Bri Turner | Medium",
+            "type": "url",
+            "url": "https://medium.com/@blturner3527/how-to-use-the-colorize-gem-and-ascii-text-art-to-enhance-terminal-output-aa5354d53207"
+         } ],
+         "date_added": "13298917379384094",
+         "date_modified": "13299802210690478",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13298917379384096",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13298917379384098",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
